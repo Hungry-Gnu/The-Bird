@@ -1,6 +1,9 @@
 # The-Bird
 The bird game.
 
+For Play: python3 main.py
+For Play without menu: python3 start.py
+
 One left click on the bird - to hang in air.
 Two left clicks on the bird - to fly up one level
 Click on nest - activate landing on nest (you see the red flag when your bird can land)
