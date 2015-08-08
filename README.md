@@ -2,6 +2,7 @@
 The bird game. Maded with Pygame engine and Python 3.4.
 
 For Play: python3 menu.py
+
 For Play without menu: python3 start.py
 
 One left click on the bird - to hang in air.
