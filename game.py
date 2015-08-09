@@ -149,7 +149,7 @@ class Game:
     #Bird eat or not eat a worm
     def bird_eat_worm(self):
         worm_eaten = pygame.sprite.spritecollideany(self.bird, self.worms_sprite_group)
-        if worm_eaten:
+        if worm_eaten and self.bird.live:
             worm_eaten.kill()
             del worm_eaten
             self.bird.food += WORM_TO_FOOD
