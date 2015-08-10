@@ -63,7 +63,7 @@ class Game:
     def update(self):
         if self.bird.live:
             self.cats_vs_bird()
-            self.bombs_vs_cats()
+        self.bombs_vs_cats()
         self.bird.update()
         self.bombs_sprite_group.update()
         self.worms_update()
