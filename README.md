@@ -1,9 +1,11 @@
 # The-Bird
 The bird game. Maded with Pygame engine and Python 3.4.
 
-For Play: python3 menu.py
+Install first: https://packages.debian.org/experimental/python3-pygame
 
-For Play without menu: python3 start.py
+To Play: python3 menu.py
+
+To Play without menu: python3 start.py
 
 One left click on the bird - to hang in air.
 Two left clicks on the bird - to fly up one level.
