@@ -1,6 +1,8 @@
 # The-Bird
 The bird game. Maded with Pygame engine and Python 3.4.
 
+![alt-text](https://github.com/Hungry-Gnu/The-Bird/blob/master/Screenshot.png "Gameplay)
+
 Install first: https://packages.debian.org/experimental/python3-pygame
 
 To Play: python3 menu.py
